@@ -98,7 +98,7 @@ let menu = `
 ┃✪ *EXPERIENCIA | EXP ➺ ${exp}*
 ┃✪ *NIVEL | LEVEL ➺ ${level}*
 ┃✪ *ROL ➺* ${role}
-┃✪ *GATACOINS ➺ $ ${money}*
+┃✪ *RYUCOINS ➺ $ ${money}*
 ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃✪ *FECHA*
 ┃➺ *${week}, ${date}*
@@ -135,7 +135,7 @@ let menu = `
 ┃🚀➺ _${usedPrefix}fraseromantica_
 ┃🚀➺ _${usedPrefix}historia_
 ╰━━━━━━━━━━━━━━━━⬣`.trim()
-conn.sendHydrated(m.chat, menu, wm, pp, 'https://github.com/GataNina-Li/GataBot-MD', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿', null, null, [
+conn.sendHydrated(m.chat, menu, wm, pp, 'https://github.com/GataNina-Li/GataBot-MD', '𝐑𝐢𝐜𝐡𝐞𝐭𝐭𝐢 𝐁𝐨𝐭', null, null, [
 ['𝙈𝙚𝙣𝙪́ 𝙘𝙤𝙢𝙥𝙡𝙚𝙩𝙤 | 𝙁𝙪𝙡𝙡 𝙈𝙚𝙣𝙪 💫', '.allmenu'],
 ['𝙄𝙣𝙫𝙚𝙣𝙩𝙖𝙧𝙞𝙤 | 𝙄𝙣𝙫𝙚𝙣𝙩𝙤𝙧𝙮 🎒', '/inventario'],
 ['𝙈𝙚𝙣𝙪 𝙋𝙧𝙞𝙣𝙘𝙞𝙥𝙖𝙡 | 𝙈𝙖𝙞𝙣 𝙢𝙚𝙣𝙪 ⚡', '#menu']
