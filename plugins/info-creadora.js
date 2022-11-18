@@ -3,20 +3,20 @@ let handler = async (m, { conn, usedPrefix }) => {
 var doc = ['pdf','zip','vnd.openxmlformats-officedocument.presentationml.presentation','vnd.openxmlformats-officedocument.spreadsheetml.sheet','vnd.openxmlformats-officedocument.wordprocessingml.document']
 var document = doc[Math.floor(Math.random() * doc.length)]    
 let text = `
-𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 💖🐈
+𝐑𝐢𝐜𝐡𝐞𝐭𝐭𝐢 𝐁𝐨𝐭
 Wa.me/593993684821
 
-𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 *2* 💖🐈
+𝐑𝐢𝐜𝐡𝐞𝐭𝐭𝐢 𝐁𝐨𝐭
 Wa.me/50498965677
 
-𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 *3* 💖🐈
+𝐑𝐢𝐜𝐡𝐞𝐭𝐭𝐢 𝐁𝐨𝐭
 Wa.me/51993042301
 
 🧡 *Eso son los contactos para ti.*\n💜 *That's the contacts for you.*`.trim()   
 let buttonMessage= {
 'document': { url: `${md}` },
 'mimetype': `application/${document}`,
-'fileName': `✦ 𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 ༄`,
+'fileName': `𝐑𝐢𝐜𝐡𝐞𝐭𝐭𝐢 𝐁𝐨𝐭`,
 'fileLength': 99999999999999,
 'pageCount': 200,
 'contextInfo': {
@@ -39,7 +39,7 @@ let buttonMessage= {
 'headerType': 6 }
 
 await conn.sendMessage(m.chat, buttonMessage, { quoted: m })
-//await m.reply(`𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 💖🐈 Wa.me/593993684821\n𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 *2* 💖🐈 Wa.me/50498965677\n𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 *3* 💖🐈 Wa.me/51993042301`)  
+//await m.reply(`𝐑𝐢𝐜𝐡𝐞𝐭𝐭𝐢 𝐁𝐨𝐭 Wa.me/51955095498\n𝐑𝐢𝐜𝐡𝐞𝐭𝐭𝐢 𝐁𝐨𝐭 Wa.me/51955095498\n𝐑𝐢𝐜𝐡𝐞𝐭𝐭𝐢 𝐁𝐨𝐭 Wa.me/51933348947`)  
 const data = global.owner.filter(([id, isCreator]) => id && isCreator)
 await conn.sendContact(m.chat, data.map(([id, name]) => [id, name]), m)
   
@@ -47,7 +47,7 @@ let pp = './media/menus/Menu2.jpg'
 let str = `${wm}`
 let oficial = 'Comunícate con Mí Creadora por Instagram!!, Solo por ese medio puede ayudarte sobre Temas de GataBot\n\nCommunicate with My Creator on Instagram!!, Only by that means can help you on GataBot Themes'
 
-await conn.sendHydrated2(m.chat, str, oficial, pp, 'https://github.com/GataNina-Li/GataBot-MD', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿', 'https://www.instagram.com/gata_dios', '𝙄𝙣𝙨𝙩𝙖𝙜𝙧𝙖𝙢', [
+await conn.sendHydrated2(m.chat, str, oficial, pp, 'https://github.com/GataNina-Li/GataBot-MD', '𝐑𝐢𝐜𝐡𝐞𝐭𝐭𝐢 𝐁𝐨𝐭', 'https://www.instagram.com/ffxryu.18', '𝙄𝙣𝙨𝙩𝙖𝙜𝙧𝙖𝙢', [
 ['☘ 𝙄𝙧 𝙖𝙡 𝙞𝙣𝙞𝙘𝙞𝙤 | 𝙂𝙤 𝙩𝙤 𝙨𝙩𝙖𝙧𝙩', '/menu'],
 ], m,)
 }
