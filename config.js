@@ -6,19 +6,19 @@ import fs from 'fs'
 
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰ 
 global.owner = [
-  ['593993684821', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 💖🐈', true],
-  ['50498965677', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 2 💖🐈', true],
-  ['51993042301', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 3 💖🐈', true],
-  ['593959425714'],
-  ['50495086382'],
-  ['584166662765'],
-  ['584163647116'],
-  ['593968585383'] 
+  ['51955095498', '𝐑𝐢𝐜𝐡𝐞𝐭𝐭𝐢 𝐁𝐨𝐭', true],
+  ['51955095498', '𝐑𝐢𝐜𝐡𝐞𝐭𝐭𝐢 𝐁𝐨𝐭', true],
+  ['51933348947', '𝐑𝐢𝐜𝐡𝐞𝐭𝐭𝐢 𝐁𝐨𝐭', true],
+  ['51933348947'],
+  ['51933348947'],
+  ['51933348947'],
+  ['51933348947'],
+  ['51933348947'] 
 ]
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 global.mods = [] 
-global.prems = ['528451003894'], 
+global.prems = ['51955095498'], 
 
 global.APIs = { // API Prefix. 
   
@@ -88,8 +88,8 @@ global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
-global.packname = '🐈 𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿'
-global.author = '𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
+global.packname = '𝐑𝐢𝐜𝐡𝐞𝐭𝐭𝐢 𝐁𝐨𝐭'
+global.author = '𝐑𝐢𝐜𝐡𝐞𝐭𝐭𝐢 𝐁𝐨𝐭'
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -99,7 +99,7 @@ global.author = '𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
 global.vs = '1.3.3'
 global.version = vs
 
-global.gt = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿'
+global.gt = '𝐑𝐢𝐜𝐡𝐞𝐭𝐭𝐢 𝐁𝐨𝐭'
 global.gatabot = gt
 
 global.yt = 'https://youtube.com/channel/UCpNU4eY7eiI0ve05CssjdbA'
@@ -111,25 +111,25 @@ global.gatadiosig = ig
 global.md = 'https://github.com/GataNina-Li/GataBot-MD'
 global.gatabot = md
 
-global.nna = 'https://chat.whatsapp.com/EzLCL8DU4NtDa1gPScN11M'
+global.nna = 'https://chat.whatsapp.com/BOAp22xLodrAvxbLG0AD4z'
 global.nnagrupo = nna //UPDATE GATABOT
 
-global.nn = 'https://chat.whatsapp.com/CrSfTA8r6o5FyC6ymmkLi2'
+global.nn = 'https://chat.whatsapp.com/BOAp22xLodrAvxbLG0AD4z'
 global.nngrupo = nn //Grupo 1
 
-global.nnn = 'https://chat.whatsapp.com/LK9sgW6LhxOLflkwHZndtT'
+global.nnn = 'https://chat.whatsapp.com/BOAp22xLodrAvxbLG0AD4z'
 global.nnngrupo = nnn //Grupo 2
 
-global.nnnt = 'https://chat.whatsapp.com/BQq6Val8KKABkOmfoA50r1'
+global.nnnt = 'https://chat.whatsapp.com/LuHSCjQuCe8G5ucRCQxkJr'
 global.nnntgrupo = nnnt //Grupo 3
 
-global.nnntt = 'https://chat.whatsapp.com/Lk1E9Hdf3JKBroJheDzDfJ'
+global.nnntt = 'https://chat.whatsapp.com/LuHSCjQuCe8G5ucRCQxkJr'
 global.nnnttgrupo = nnntt //Grupo 4
 
-global.nnnttt = 'https://chat.whatsapp.com/BqPnmDG0QqCKN3KnfrSX9x'
+global.nnnttt = 'https://chat.whatsapp.com/LuHSCjQuCe8G5ucRCQxkJr'
 global.nnntttgrupo = nnnttt //Grupo 5
 
-global.paypal = 'https://paypal.me/OficialGD'
+global.paypal = 'https://paypal.me/82801994'
 global.donar = paypal
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
@@ -164,8 +164,8 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 : 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
-global.igfg = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿'
+global.wm = '𝐑𝐢𝐜𝐡𝐞𝐭𝐭𝐢 𝐁𝐨𝐭'
+global.igfg = '𝐑𝐢𝐜𝐡𝐞𝐭𝐭𝐢 𝐁𝐨𝐭'
 global.wait = '*⌛ _Cargando | Charging..._ ▬▭▭▭▭▭▭*'
 global.waitt = '*⌛ _Cargando | Charging..._ ▬▬▭▭▭*'
 global.waittt = '*⌛ _Cargando | Charging..._ ▬▬▬▬▭▭*'
